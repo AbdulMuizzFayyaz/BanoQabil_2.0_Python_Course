@@ -1,5 +1,4 @@
 # Abdul_Muizz
-# 0321-2266448
 # www.legendgamerz@gmail.com
 
 # Project No. 2:
