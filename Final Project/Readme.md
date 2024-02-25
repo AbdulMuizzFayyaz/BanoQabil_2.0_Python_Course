@@ -14,7 +14,8 @@ You need to have Python installed for this to run.
 You also need to install the pygame using cmd (use command "pip install pygame") 
 
 # How to run 
-1.	First ensure that you have python,and pygame installed.
-2.	Open a terminal or command prompt.
-3.	Navigate the directory containing “snake.py”.
-4.	Run the script using “python snake.py”.
+1.  First clone the folder in your computer.
+2.	Ensure that you have python,and pygame installed.
+3.	Open a terminal or command prompt.
+4.	Navigate the directory containing “snake.py”.
+5.	Run the script using “python snake.py”.
